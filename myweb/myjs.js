@@ -1,0 +1,2 @@
+
+alert("My First JavaScript");
